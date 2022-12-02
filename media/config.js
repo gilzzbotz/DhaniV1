@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 
 global.owner = ['6285730794089'] //Masukin nomor mu
-global.ownernomer = "6285730794088" //Masukin nomor mu
+global.ownernomer = "6285730794089" //Masukin nomor mu
 global.premium = ['6285730794089'] //Masukin nomor mu
 global.namanya = 'Gilzz Dev' //Masukin nama mu
 global.fakename = '© Gilzz Dev' //Masukin nama mu
